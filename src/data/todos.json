@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "task": "Do this to get complete this task 1",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "Do this to get complete this task 2",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "task": "Do this to get complete this task 3",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Do this to get complete this task 4",
+    "completed": true
+  }
+]
